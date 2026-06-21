@@ -1,9 +1,6 @@
 # SatNOGS Ground Station Dashboard
 
 Public-safe dashboard and documentation for a SatNOGS-style satellite ground station workflow.
-
-## Project period
-
 Representative of satellite communications and SDR work from my UBC ORBIT / RF portfolio. This repository was created later as a public-safe evidence artifact because original station files, logs, and captures are not suitable for public release.
 
 ## What this demonstrates
@@ -14,7 +11,7 @@ Representative of satellite communications and SDR work from my UBC ORBIT / RF p
 - Antenna / rotator / Linux ground-station architecture
 - Public-safe dashboard for pass queue, elevation profile, and waterfall-style signal view
 
-## Hardware to run the real project
+## Hardware to run the project
 
 - Raspberry Pi or Linux mini PC
 - RTL-SDR, Airspy, SDRplay, or comparable SDR
@@ -23,7 +20,5 @@ Representative of satellite communications and SDR work from my UBC ORBIT / RF p
 - LNA, band-pass filter, low-loss coax, and weatherproof enclosure
 - SatNOGS client, GNU Radio, TLE scheduler, demodulation tools
 
-## Resume-safe description
 
-Built a SatNOGS-style satellite ground-station workflow for LEO pass tracking and SDR telemetry reception. Created a public-safe dashboard showing pass prediction, Doppler correction, rotator pointing, SDR waterfall, and telemetry capture workflow.
 
