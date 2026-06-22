@@ -1,4 +1,6 @@
-# SatNOGS Ground Station Setup
+﻿# SatNOGS Ground Station Setup
+
+> Public archive note: this repository is a portfolio/demo-safe version prepared from private working repositories/materials; sensitive details, credentials, raw logs, and proprietary context are intentionally omitted.
 
 Linux setup notes, helper scripts, and configuration templates for a SatNOGS-style LEO satellite ground station using an SDR receiver, antenna system, optional az/el rotator, and SatNOGS Client.
 
@@ -137,4 +139,3 @@ Built a Linux-based satellite ground-station workflow for receiving LEO satellit
 - SatNOGS setup wiki: https://wiki.satnogs.org/SatNOGS_Setup
 - SatNOGS rotators wiki: https://wiki.satnogs.org/Rotators
 - Hamlib rigctld documentation: https://hamlib.sourceforge.net/html/rigctld.1.html
-
